@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bimurto/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Bimurto](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Bimurto](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> বিমূর্ত এই আঁধারে খুঁজি তোমার উষ্ণ ঘ্রাণ
+> তোমার চোখের গভীরে যেন লুকিয়ে আছে প্রাণ
+> অচেনা এক ঘোরে আজ কাঁপছে আমার শরীর
+> তোমার শীতল পরশে আমি হচ্ছি যে অধীর
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
